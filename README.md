@@ -13,7 +13,6 @@ A collection of in-depth technical blog posts covering Oracle Cloud Infrastructu
 | 5 | [OCI Object Storage: Automation and Lifecycle Management](05-oci-object-storage-automation-lifecycle.md) | Object Storage | Pending |
 | 6 | [Oracle NoSQL vs Autonomous Database: Choosing the Right DB](06-oracle-nosql-vs-autonomous-database.md) | NoSQL, Autonomous DB | Pending |
 | 7 | [The Complete OCI Always Free Tier Guide for Developers](07-complete-oci-always-free-tier-guide.md) | All OCI Free Services | Pending |
-| 8 | [I Replaced Our On-Call Engineer with a Kubernetes Operator](08-i-replaced-our-oncall-engineer-with-a-kubernetes-operator.md) | Kubernetes, SRE, Operators | Pending |
 
 ## About
 
